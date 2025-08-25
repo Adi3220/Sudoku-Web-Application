@@ -74,7 +74,7 @@ SUDOKU-adit
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/yourusername/SUDOKU-adit.git](https://github.com/yourusername/SUDOKU-adit.git)
+    git clone [https://github.com/Adi3220/SUDOKU-adit.git](https://github.com/Adi3220/SUDOKU-adit.git)
     cd SUDOKU-adit
     ```
 
@@ -104,7 +104,4 @@ Feel free to submit issues, fork the repository, and send pull requests.
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
-
----
-*Note: Replace `Adi3220` with your actual GitHub username.*
 
